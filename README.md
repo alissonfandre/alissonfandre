@@ -29,8 +29,5 @@
 <br/> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alissonfandre9@gmail.com)](mailto:alissonfandre9@gmail.com)
 <br/> [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/48998434470)](https://wa.me/48998434470)
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alissonfandre&show_icons=true&count_private=true)
 
  
