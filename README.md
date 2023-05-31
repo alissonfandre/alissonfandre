@@ -13,7 +13,7 @@
 
 - [Ecoleta](https://github.com/alissonfandre/next-level-week) - Projeto desenvolvido durante os videos do NEXT LEVEL WEEK para aprender o uso de ferramentas como CSS, HTML, JavaScript, VScode, Git, GitHub.
 
-- [Loja Dodoca](https://github.com/alissonfandre/loja_dodoca) - Projeto desenvolvido durante o curso do SENAI com objetivo de desenvoolver as praticas de CSS, HTML, JavaScript.
+- [Loja Dodoca](https://github.com/alissonfandre/loja_dodoca) - Projeto desenvolvido durante o curso do SENAI com objetivo de desenvolver as praticas de CSS, HTML, JavaScript.
 
 ## Habilidades
 - Linguagens de programação em aprendizado: JavaScript, C++
