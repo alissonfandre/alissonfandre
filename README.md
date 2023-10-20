@@ -6,7 +6,7 @@
 ## Sobre mim
 - :purple_heart: Sou apaixonado por resolver problemas utilizando a programação. 
 
-- :office: Estou cursando  a 2º Fase de Desenvolvimento de Sistemas, estou em busca de uma primeira oportunidade de emprego para ingressar na área de Desenvolvimento de Sistemas para aplicar meus conhecimentos técnicos, trabalhar em equipe e aprender continuamente, estou ansioso para me desenvolver profissionalmente.
+- :office: Estou cursando  a 3º Fase de Desenvolvimento de Sistemas, estou em busca de uma primeira oportunidade de emprego para ingressar na área de Desenvolvimento de Sistemas para aplicar meus conhecimentos técnicos, trabalhar em equipe e aprender continuamente, estou ansioso para me desenvolver profissionalmente.
 
 
 ## Projetos
