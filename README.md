@@ -16,7 +16,7 @@
 - [Loja Dodoca](https://github.com/alissonfandre/loja_dodoca) - Projeto desenvolvido durante o curso do SENAI com objetivo de desenvolver as praticas de CSS, HTML, JavaScript.
 
 ## Habilidades
-- Linguagens de programação em aprendizado: JavaScript, C++
+- Linguagens de programação em aprendizado: JavaScript,Python
 - Ferramentas: Postman, VScode
 - Bancos de dados: MySQL
 - Linguagens de Marcação: HTML
