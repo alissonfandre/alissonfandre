@@ -25,7 +25,7 @@
 
 ## Contato 
 
-<br/> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/https://www.linkedin.com/in/alisson-feliciano-648b48259/)](https://www.linkedin.com/in/alisson-feliciano-648b48259/)
+<br/> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/https://www.linkedin.com/in/alisson-feliciano-andr%C3%A9-648b48259/)](https://www.linkedin.com/in/alisson-feliciano-648b48259/)
 <br/> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:alissonfandre9@gmail.com)](mailto:alissonfandre9@gmail.com)
 <br/> [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/48998434470)](https://wa.me/48998434470)
 
